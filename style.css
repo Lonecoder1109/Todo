@@ -1,0 +1,15 @@
+body{
+    background : linear-gradient(to right,#FFC0CB,white) ;
+}
+h1{
+    text-align: center;
+    color:#c69113;
+}
+.items{
+    margin-top: 40px;
+    background: linear-gradient(to left,pink,white);
+    font-size: larger;
+    padding: 30px;
+    height: 200px;
+    color: #c3aa1e ;
+}
